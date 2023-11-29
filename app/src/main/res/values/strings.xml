@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Limonero</string>
+    <string name="SeleccionarLimon">Tap the lemon tree to select a lemon</string>
+    <string name="ExprimirLimon">Keep tapping the lemon to squeeze it</string>
+    <string name="LimonBeber">Tap the lemonade to drink it</string>
+    <string name="vasoLimonVacio">Tap the empty glass to start again</string>
+    <string name="arbolLimones">Lemon tree</string>
+    <string name="Limon">Lemon</string>
+    <string name="vasoLimonada">Glass of lemonade</string>
+    <string name="vasoVacio">Empty glass</string>
+</resources>
